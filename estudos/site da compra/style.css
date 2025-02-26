@@ -1,0 +1,12 @@
+body{background-color: #0080bb;}
+h1{color:#ffffff}
+label{color:#ffffff}
+p{color:#ffffff}
+.sciencebased{ /* POSIÇÃO */
+    position: relative; /* define a posição como relativa para poder movê-la */
+    left: 50px; /* move a imagem 50 pixels para a direita */
+    top: 150px; /* move a imagem 20 pixels para baixo */
+      /* TAMANHO */
+    width: 400px; /* define a largura da imagem como 200 pixels */
+    height: 300px; /* define a altura da imagem como 150 pixels */
+  }
